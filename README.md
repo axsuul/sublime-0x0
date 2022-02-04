@@ -8,8 +8,8 @@ Activate the Command Palette and search for "0x0" to do the deed.
 
 ## Alternatives
 
-* Visual Studio Code
-  - [vscode-0x0](https://github.com/wcwung/vscode-0x0#readme)
+### Visual Studio Code
+* [vscode-0x0](https://github.com/wcwung/vscode-0x0#readme)
 
 ## Thanks
 
